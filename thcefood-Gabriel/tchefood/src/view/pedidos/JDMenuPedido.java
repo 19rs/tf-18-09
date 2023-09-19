@@ -80,8 +80,11 @@ public class JDMenuPedido extends javax.swing.JDialog {
 
     private void jbCadastrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbCadastrarActionPerformed
        this.dispose();
-        JDialogPedidoCardapio a = new JDialogPedidoCardapio(null, true);
-        a.setVisible(true);
+        //JDialogPedidoCardapio a = new JDialogPedidoCardapio(null, true);
+        //a.setVisible(true);
+        
+        JDialogPedidoCardapio2 jDialogPedidoCardapio2 = new JDialogPedidoCardapio2(null,true);
+        jDialogPedidoCardapio2.setVisible(true);
     }//GEN-LAST:event_jbCadastrarActionPerformed
 
     private void jbGerenciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbGerenciarActionPerformed

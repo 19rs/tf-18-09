@@ -2,11 +2,9 @@ package tablemodel;
 
 
 import Model.ModelItensPedido;
-import Model.ProdutoModel;
 import java.util.ArrayList;
-import javax.swing.JTextField;
 import javax.swing.table.AbstractTableModel;
-import view.pedidos.JDialogPedidoCardapio;
+import view.pedidos.JDialogPedidoCardapio2;
 
 
 public class TableModelItensPedido extends AbstractTableModel 
@@ -68,7 +66,8 @@ public class TableModelItensPedido extends AbstractTableModel
             total += itensPedido.get(i).getQuantidade() * itensPedido.get(i).getProdutoId().getPreco();
         }
         
-        JDialogPedidoCardapio.jTextFieldTotalPedido.setText("R$ " + String.format("%.2f",total));
+        //JDialogPedidoCardapio.jTextFieldTotalPedido.setText("R$ " + String.format("%.2f",total));
+        JDialogPedidoCardapio2.jTextFieldTotalPedido.setText("R$ " + String.format("%.2f",total));
         System.out.println("TOTAL: " + total);
     }
 }

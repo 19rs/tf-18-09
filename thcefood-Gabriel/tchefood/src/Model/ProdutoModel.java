@@ -9,6 +9,7 @@ public class ProdutoModel
     private String descricao;
     private double preco;
     private String imagem;
+    private String thumb;
 
     public int getId() 
     {
@@ -69,4 +70,16 @@ public class ProdutoModel
     {
         this.imagem = imagem;
     }
+
+    public String getThumb() 
+    {
+        return thumb;
+    }
+
+    public void setThumb(String thumb) 
+    {
+        this.thumb = thumb;
+    }
+    
+    
 }

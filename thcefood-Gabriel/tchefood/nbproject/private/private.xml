@@ -3,10 +3,19 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/JFRMenu.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/produto/JDialogProduto2.java</file>
             <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/infra/ConexaoMYSQL.java</file>
-            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/cardapio/JDialogCardapio.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/DAO/PedidoDAO.java</file>
             <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/pedidos/JDialogPedidoCardapio.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/pedidos/JDMenuPedido.java</file>
             <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/produto/JDialogEditarProduto.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/DAO/ProdutoDAO.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/DAO/ProdutoDAO2.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/DAO/DAOUsuario.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/cardapio/JDialogCardapio.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/view/pedidos/JDialogPedidoCardapio2.java</file>
+            <file>file:/C:/Users/T-GAMER/Documents/NetBeansProjects/tchefood%20git/tf-12-09/thcefood-Gabriel/tchefood/src/tablemodel/TableModelItensPedido.java</file>
         </group>
     </open-files>
 </project-private>
